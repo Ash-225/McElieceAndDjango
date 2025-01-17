@@ -33,7 +33,7 @@ conda activate sage
 
 ### #Download the zip file or clone the repository and remove the .git folder:
 ```
-git clone https://github.com/Ash-225/DjangoBase . && rm -rf .git
+git clone https://github.com/Ash-225/McElieceAndDjango . && rm -rf .git
 ```
 ### #Setup
 
